@@ -1,6 +1,6 @@
-# EPEC: Efficiency–Prediction Error Coefficient
+# EPEC: Efficiency–Precision Equilibrium Coefficient
 
-Reference implementation of the **Efficiency–Prediction Error Coefficient (EPEC)** framework for evaluating time series forecasting models under accuracy–efficiency trade-offs.
+Reference implementation of the **Efficiency–Precision Equilibrium Coefficient (EPEC)** framework for evaluating time series forecasting models under accuracy–efficiency trade-offs.
 
 EPEC integrates normalized prediction error and training time into a single interpretable score, enabling consistent model ranking and pre‑screening for forecasting tasks.
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## How to Use EPEC
 
-### 1. `epec_reference.py` – Minimal Core Implementation
+### 1. `EPEC_reference.py` – Minimal Core Implementation
 
 This script provides the core EPEC calculation in a few dozen lines. It is intended for users who already have prediction errors and average training times and want to compute EPEC scores and rankings directly.
 
