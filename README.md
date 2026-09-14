@@ -10,16 +10,13 @@ EPEC integrates normalized prediction error and training time into a single inte
 
 ```
 EPEC/
+├── Beijing_metro.csv        # Publicly released Beijing metro dataset
+├── EPEC_full.py             # Complete multi‑seed statistical analysis pipeline
+├── EPEC_reference.py        # Minimal reference implementation of the EPEC score
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── EPEC_reference.py        # Minimal reference implementation of the EPEC score
-├── EPEC_full.py             # Complete multi‑seed statistical analysis pipeline
-├── Beijing_metro.csv        # Publicly released Beijing metro dataset
-├── example/
-│   ├── all_experiment_results.csv    # Small example input
-│   └── run_example.sh                # One‑click example script
-└── output/                  # Generated statistical results
+
 ```
 
 ---
