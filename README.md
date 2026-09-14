@@ -148,11 +148,11 @@ python EPEC_full.py
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{epec2026,
-  title   = {Beyond side-by-side comparison: A unified evaluation framework for model selection in time series forecasting},
-  author  = {Anonymous Authors},
-  journal = {IEEE Transactions on Knowledge and Data Engineering},
-  year    = {2026}
+@article{yang2026epec,
+  title={Beyond side-by-side comparison: A unified evaluation framework for model selection in time series forecasting},
+  author={Ruoping Yang, Zhongliang Guan, and Xiang Xie},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2026}
 }
 ```
 
