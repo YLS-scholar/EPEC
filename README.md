@@ -41,7 +41,7 @@ This script provides the core EPEC calculation in a few dozen lines. It is inten
 **Function signature:**
 
 ```python
-from epec_reference import epec
+from EPEC_reference import epec
 
 epec_scores, rankings = epec(errors, avg_train_times, lamda=0.25)
 ```
