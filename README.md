@@ -128,12 +128,6 @@ python EPEC_full.py
 | `seed_epec_stats.csv` | EPEC and rank mean and std per dataset, model |
 | `seed_epec_per_horizon.csv` | EPEC per horizon |
 
-**Example usage:**
-
-1. Place your `all_experiment_results.csv` in the root directory.
-2. Run `python EPEC_full.py`.
-3. Inspect the CSV files in `./output/`.
-
 ---
 
 ## Data
