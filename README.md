@@ -139,7 +139,7 @@ python EPEC_full.py
 ## Data
 
 - `data/Beijing_metro.csv` is included in this repository.
-- The other four datasets (electricity, exchange_rate, weather, illness) are publicly available. See `data/README.md` for download links.
+- The other four datasets (electricity, exchange_rate, weather, illness) are publicly available. Download link: https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy.
 
 ---
 
