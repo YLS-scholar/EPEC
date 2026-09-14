@@ -91,7 +91,7 @@ This script performs the full statistical analysis used in the paper. It reads r
 
 **Input file:**
 
-`all_experiment_results.csv` must be placed in the root directory. It must contain the following columns:
+`all_experiment_results.csv` must be placed in the root directory. It must contain the following columns (the accuracy metrics used in the paper are MSE and MAPE; you may adjust them according to your own needs):
 
 | Column      | Description                                      |
 |-------------|--------------------------------------------------|
@@ -101,7 +101,7 @@ This script performs the full statistical analysis used in the paper. It reads r
 | `pred_len`  | Forecast horizon (integer)                       |
 | `train_time`| Training time in seconds (float)                 |
 | `mse`       | Mean squared error (float)                       |
-| `mape`      | Mean absolute percentage error (float, optional) |
+| `mape`      | Mean absolute percentage error (float)           |
 
 **Configuration:**
 
